@@ -1,5 +1,10 @@
 # Hello, World!
-![IMG-0072](https://github.com/AleksandraGafarovaQA/AleksandraGafarovaQA/assets/162289938/1be7bef3-ce8d-4f8d-a1ff-24f041bc4735)
+![IMG-0077](https://github.com/AleksandraGafarovaQA/AleksandraGafarovaQA/assets/162289938/d565d854-dc55-4b98-8385-be003288e253)
+# I'm a QA Engineer. Just a beginner with a strong passion for work, ensuring the high quality of software products and becoming a professional.
+
+# My CV
+
+# Language and Tools 
 
 
 <!---
